@@ -1,0 +1,15 @@
+.blurb{
+	width:100px;
+	height:100px;
+
+	color:white;
+	text-align: center;
+
+	background-color: #ffb800;
+	border-radius:50px;
+
+	position: absolute;
+	left:200px;
+	top:300px;
+
+}
